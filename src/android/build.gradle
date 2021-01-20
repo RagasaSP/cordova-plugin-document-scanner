@@ -7,5 +7,5 @@ allprojects {
 }
 
 dependencies {
-	implementation 'com.github.RagasaSP:scanlibrary:v1.1.1-S'
+	implementation 'com.github.RagasaSP:scanlibrary:v2.7.4'
 }
